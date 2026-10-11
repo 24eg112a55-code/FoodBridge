@@ -1,0 +1,1 @@
+Optional local image assets for the static frontend belong here. The current hero and mission photography are loaded from Unsplash.

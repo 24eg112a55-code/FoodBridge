@@ -1,0 +1,12 @@
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
+*.iml
+node_modules/
+Thumbs.db
+Desktop.ini
